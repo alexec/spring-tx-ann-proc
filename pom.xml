@@ -19,4 +19,12 @@
         </plugins>
     </build>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-tx</artifactId>
+            <version>3.2.11.RELEASE</version>
+        </dependency>
+    </dependencies>
+
 </project>
